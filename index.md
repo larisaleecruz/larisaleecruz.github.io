@@ -1,5 +1,5 @@
 ---
 layout: default
-title: ""
+title: " "
 ---
 # This site is under construction...
