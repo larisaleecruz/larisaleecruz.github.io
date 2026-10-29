@@ -3,7 +3,7 @@ description: ""
 theme: minima
 
 url: "https://larisaleecruz.github.io"
-baseurl: "https://larisaleecruz.github.io"
+baseurl: ""
 
 markdown: kramdown
 
