@@ -5,11 +5,11 @@ theme: minima
 markdown: kramdown
 
 header_pages:
- page: home.md
- title: Home
- page: research.md
- title: Research
- page: cv.md
- title: CV
- page: contact.md
- title: Contact
+  - page: index.md
+    title: Home
+  - page: research.md
+    title: Research
+  - page: cv.md
+    title: CV
+  - page: contact.md
+    title: Contact
