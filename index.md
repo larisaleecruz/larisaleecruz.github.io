@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Home
+<>title: Home
 ---
-# Welcome to my website
+# This site is under construction...
