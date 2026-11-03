@@ -20,7 +20,7 @@ These seabirds are particular in that their feathers are not quite water proof a
 
 This species, as many other seabirds, is long lived, so trade-offs between current and future reproduction (i. e. survival) may exist. For example, a female frigatebird may decide to also desert the chick if the cost of raising it after the male’s desertion is such that risks her survival and thus her chances of breeding in the future. 
 
-*My research was to study if this increased effort by the female had a cost*, for instance in a reduction on her body mass. 
+*My research was to study if this increased effort by the female had a cost*, for instance in a reduction on her body mass. <br>
 
 <p style="margin-left: 40px;" align = "justify"><font size = "3">
 <img src="/Figures/frigate_scale.jpg" max-width = "25%" width = "25%" height = "auto" align = "left" hspace = "10" vspace="40">
