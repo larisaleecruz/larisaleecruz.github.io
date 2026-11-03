@@ -73,11 +73,16 @@
   background-color: #F5FEFD;
 }
 
-site-nav .trigger .dropdown {
+.site-nav .trigger .dropdown {
   position: relative;
   display: inline-block;
 }
 
+/* Research dropdown menu */
+.site-nav .trigger .dropdown {
+  position: relative;
+  display: inline-block;
+}
 .site-nav .trigger .dropdown-content {
   display: none;
   position: absolute;
