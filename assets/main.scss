@@ -72,3 +72,25 @@
 .body {
   background-color: #F5FEFD6;
 }
+
+.dropdown: focus-within .dropdown-content {
+  display: block:
+}
+
+.dropdown-arrow {
+  font-size: 0.75em;
+}
+
+/* Mobile navigation */
+
+@media screen and (max-width: 600px) {
+  .dropdown {
+    display: block;
+  }
+
+  .dropdown-content {
+    position: static;
+    box-shadow: none;
+    padding-left: 15px;
+  }
+}
