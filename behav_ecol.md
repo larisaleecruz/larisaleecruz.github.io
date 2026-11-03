@@ -20,7 +20,7 @@ These seabirds are particular in that their feathers are not quite water proof a
 
 This species, as many other seabirds, is long lived, so trade-offs between current and future reproduction (i. e. survival) may exist. For example, a female frigatebird may decide to also desert the chick if the cost of raising it after the male’s desertion is such that risks her survival and thus her chances of breeding in the future. 
 
-*My research was to study if this increased effort by the female had a cost*, for instance in a reduction on her body mass. <br>
+*My research was to study if this increased effort by the female had a cost*, for instance in a reduction on her body mass.
 
 <p style="margin-left: 40px;" align = "justify"><font size = "3">
 <img src="/Figures/frigate_scale.jpg" max-width = "25%" width = "25%" height = "auto" align = "left" hspace = "10" vspace="40">
@@ -29,4 +29,4 @@ To do this, we installed an electronic scale that allowed us to record the body 
 
 It seems that the increase in parental effort after male desertion does not represent a higher reproductive cost for the female, at least measured in terms of body mass, as it did not change before and after male desertion. Chicks attained average growth at fledging, suggesting that the female investment in the current breeding season was enough. 
 
-Nevertheless, as it happens often with ecological research, unpredictable events impacted our field work. Frigatebirds in this colony start courting in late autumn and the first chicks hatch in January/February, when the rainy and hurricane season has ended. However, that year (2001) a jet stream hit the island at the beginning of March and for two days there were strong winds and rain. As most of the chicks were still small and unable to regulate their temperature, the cold and wet conditions caused a high mortality, including 90% of our initial focal sample… The sun did shine afterwards and we started all over again, but with a fewer focal nests. 
+Nevertheless, as it happens often with ecological research, unpredictable events impacted our field work. Frigatebirds in this colony start courting in late autumn and the first chicks hatch in January/February, when the rainy and hurricane season has ended. However, that year (2001) a jet stream hit the island at the beginning of March and for two days there were strong winds and rain. As most of the chicks were still small and unable to regulate their temperature, the cold and wet conditions caused a high mortality, including 90% of our initial focal sample… The sun did shine afterwards and we started all over again, but with a much smaller sample size. 
