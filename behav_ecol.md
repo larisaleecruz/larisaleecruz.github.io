@@ -14,7 +14,7 @@ As a biology student I had the chance to join the Animal Behaviour Lab at the [*
 I studied parental effort in magnificent frigatebirds (*Fregata magnificens*) in a breeding colony in [**Isla Isabel**](https://www.gob.mx/conanp/documentos/parque-nacional-isla-isabel-209449?state=published) in Mexico. 
 
 <p style="margin-right: 40px;" align = "justify"><font size = "3">
-<img src="/Figures/Frigatebird.jpg" max-width = "40%" width = "40%" height = "auto" align = "right" hspace = "30" vspace="20">
+<img src="/Figures/Frigatebird.jpg" max-width = "40%" width = "40%" height = "auto" align = "right" hspace = "20" vspace="20">
 
 These seabirds are particular in that their feathers are not quite water proof and therefore they cannot forage by plunging or diving in the sea. Instead, they skim the surface of the sea to grab fish or they steal it from other birds. They also have a long period of parental care - the single chick (females lay only one egg) will still need feeding for between nine months to a year after fledging, which happens at around six months of age, and thus, it can take 18 months for the chick to become fully independent. Although both parents incubate and feed the chick for the first few months, the male deserts the nest before the chick fledges, leaving the burden of finishing raising the offspring to the female. The female compensates the care given by the male after he deserts by increasing the feeding rate to the chick. 
 
@@ -22,7 +22,7 @@ This species, as many other seabirds, is long lived, so trade-offs between curre
 <i>My research was to study if this increased effort by the female had a cost</i>, for instance in a reduction on her body mass.
 
 <p style="margin-left: 40px;" align = "justify"><font size = "3">
-<img src="/Figures/frigate_scale.jpg" max-width = "25%" width = "25%" height = "auto" align = "left" hspace = "10" vspace="40">
+<img src="/Figures/frigate_scale.jpg" max-width = "25%" width = "25%" height = "auto" align = "left" hspace = "30" vspace="30">
 
 To do this, we installed an electronic scale that allowed us to record the body mass of the frigatebirds when they came to feed the offspring. We also measured chick-growth before fledging.
 
