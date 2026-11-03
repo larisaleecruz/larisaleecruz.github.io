@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Behavioural Ecology Research
+title: Behavioural Ecology
 permalink: /behav_ecol/
 ---
 
