@@ -22,7 +22,7 @@ This species, as many other seabirds, is long lived, so trade-offs between curre
 <i>My research was to study if this increased effort by the female had a cost</i>, for instance in a reduction on her body mass.
 
 <p style="margin-left: 40px;" align = "justify"><font size = "3">
-<img src="/Figures/frigate_scale.jpg" max-width = "30%" width = "30%" height = "auto" align = "left" hspace = "20" vspace="20">
+<img src="/Figures/frigate_scale.jpg" max-width = "40%" width = "40%" height = "auto" align = "left" hspace = "20" vspace="20">
 
 To do this, we installed an electronic scale that allowed us to record the body mass of the frigatebirds when they came to feed the offspring. We also measured chick-growth before fledging.
 
