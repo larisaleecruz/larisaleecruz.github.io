@@ -1,5 +1,3 @@
-</> YAML
-
 ---
 layout: page
 title: Behavioural Ecology Research
