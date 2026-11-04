@@ -5,7 +5,7 @@ permalink: /behav_ecol/
 ---
 Before studying biology I was already interested in  understanding why animals do what they do and how their behaviour is influenced by the environment, this is what we call Behavioural Ecology, and I have had the chance to explore it in different systems. 
 
-<b><span style="color: blue; font-size: 24px;">Seabirds</span></b>
+<b><span style="color: #0000ff; font-size: 24px;">Seabirds</span></b>
 
 Seabirds are a quite interesting group because they depend on the sea for food, but they need land for reproduction. 
 
