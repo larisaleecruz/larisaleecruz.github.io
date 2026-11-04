@@ -10,17 +10,22 @@ Before studying biology I was already interested in  understanding why animals d
 Seabirds are a quite interesting group because they depend on the sea for food, but they need land for reproduction. 
 
 As a biology student I had the chance to join the Animal Behaviour Lab at the [**Institute of Ecology**](https://www.ecologia.unam.mx/web2/index.php/en/) in Mexico to do research on seabirds for my major.
+
 I studied parental effort in magnificent frigatebirds (*Fregata magnificens*) in a breeding colony in [**Isla Isabel**](https://www.gob.mx/conanp/documentos/parque-nacional-isla-isabel-209449?state=published) in Mexico. 
 
 <figure style="float: right; width: 40%; margin: 20px;">
     <img src="/Figures/Frigatebird.jpg" 
          style="width: 40%; height: 40%;">
-    <figcaption style="text-align: left; font-style: italic;">
+    <figcaption style=
+        "text-align: left; 
+        font-style: italic;
+        font-size: 0.9em;">
         Magnificent Frigatebird.
     </figcaption>
 </figure>
-
-These seabirds are particular in that their feathers are not quite water proof and therefore they cannot forage by plunging or diving in the sea. Instead, they skim the surface of the sea to grab fish or they steal it from other birds. They also have a long period of parental care - the single chick (females lay only one egg) will still need feeding for between nine months to a year after fledging, which happens at around six months of age, and thus, it can take 18 months for the chick to become fully independent. Although both parents incubate and feed the chick for the first few months, the male deserts the nest before the chick fledges, leaving the burden of finishing raising the offspring to the female. The female compensates the care given by the male after he deserts by increasing the feeding rate to the chick. 
+<p>
+These seabirds are particular in that their feathers are not quite water proof and therefore they cannot forage by plunging or diving in the sea. Instead, they skim the surface of the sea to grab fish or they steal it from other birds. They also have a long period of parental care - the single chick (females lay only one egg) will still need feeding for between nine months to a year after fledging, which happens at around six months of age, and thus, it can take 18 months for the chick to become fully independent. Although both parents incubate and feed the chick for the first few months, the male deserts the nest before the chick fledges, leaving the burden of finishing raising the offspring to the female. The female compensates the care given by the male after he deserts by increasing the feeding rate to the chick.
+</p>
 
 This species, as many other seabirds, is long lived, so trade-offs between current and future reproduction (i. e. survival) may exist. For example, a female frigatebird may decide to also desert the chick if the cost of raising it after the male’s desertion is such that risks her survival and thus her chances of breeding in the future. <br><br>
 <i>My research was to study if this increased effort by the female had a cost</i>, for instance in a reduction on her body mass.
