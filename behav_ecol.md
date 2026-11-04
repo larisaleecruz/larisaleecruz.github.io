@@ -3,11 +3,10 @@ layout: page
 title: Behavioural Ecology
 permalink: /behav_ecol/
 ---
-##  Behavioural Ecology
-
 Before studying biology I was already interested in  understanding why animals do what they do and how their behaviour is influenced by the environment, this is what we call Behavioural Ecology, and I have had the chance to explore it in different systems. 
 
-### Seabirds
+<b><font color = 'blue'>Seabirds</font></b>
+
 Seabirds are a quite interesting group because they depend on the sea for food, but they need land for reproduction. 
 
 As a biology student I had the chance to join the Animal Behaviour Lab at the [**Institute of Ecology**](https://www.ecologia.unam.mx/web2/index.php/en/) in Mexico to do research on seabirds for my major.
