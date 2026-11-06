@@ -9,6 +9,7 @@ Before studying biology I was already interested in  understanding why animals d
 
 Seabirds are a quite interesting group because they depend on the sea for food, but they need land for reproduction. 
 
+**Parental effort in Frigatebirds**<br><br>
 As a biology student I had the chance to join the Animal Behaviour Lab at the [**Institute of Ecology**](https://www.ecologia.unam.mx/web2/index.php/en/) in Mexico to do research on seabirds for my major.
 
 I studied parental effort in magnificent frigatebirds (*Fregata magnificens*) in a breeding colony in [**Isla Isabel**](https://www.gob.mx/conanp/documentos/parque-nacional-isla-isabel-209449?state=published) in Mexico. 
@@ -20,7 +21,7 @@ I studied parental effort in magnificent frigatebirds (*Fregata magnificens*) in
         "text-align: left; 
         font-style: italic;
         font-size: 0.9em;">
-        Magnificent Frigatebird.
+        Magnificent frigatebird.
     </figcaption>
 </figure>
 
@@ -30,8 +31,16 @@ These seabirds are particular in that their feathers are not quite water proof a
 This species, as many other seabirds, is long lived, so trade-offs between current and future reproduction (i. e. survival) may exist. For example, a female frigatebird may decide to also desert the chick if the cost of raising it after the male’s desertion is such that risks her survival and thus her chances of breeding in the future. <br><br>
 *My research was to study if this increased effort by the female had a cost*, for instance in a reduction on her body mass.
 
-<p style="margin-left: 40px;" align = "justify"><font size = "3">
-<img src="/Figures/frigate_scale.jpg" max-width = "40%" width = "40%" height = "auto" align = "left" hspace = "20" vspace="20">
+<figure style="float: left; width: 60%; margin: 20px;">
+    <img src="/Figures/frigate_scale.jpg" 
+         style="width: 40%; height: 40%;">
+    <figcaption style=
+        "text-align: left; 
+        font-style: italic;
+        font-size: 0.9em;">
+        Frigatebird chick and scale next to nest.
+    </figcaption>
+</figure>
 
 To do this, we installed an electronic scale that allowed us to record the body mass of the frigatebirds when they came to feed the offspring. We also measured chick-growth before fledging.
 
@@ -40,12 +49,22 @@ It seems that the increase in parental effort after male desertion does not repr
 Nevertheless, as it happens often with ecological research, unpredictable events impacted our field work. Frigatebirds in this colony start courting in late autumn and the first chicks hatch in January/February, when the rainy and hurricane season has ended. However, that year (2001) a jet stream hit the island at the beginning of March and for two days there were strong winds and rain. As most of the chicks were still small and unable to regulate their temperature, the cold and wet conditions caused a high mortality, including 90% of our initial focal sample… The sun did shine afterwards and we started all over again, but with a much smaller sample size. 
 <div style="clear: both;"></div>
 
+**Population decline in Galápagos Blue-footed boobies**<br><br>
 Later on, I did my PhD at the [School of Biological Sciences](https://biologicalsciences.leeds.ac.uk) of the **University of Leeds** focused on the foraging and breeding ecology of the blue-footed booby (BFB) (*Sula nebouxii*) and its health status in the Galápagos Islands. The initial idea was to study also the Nazca booby (NB) (*Sula granti*). Both seabird species belong to the Sulidae and share some ecological features, but there are differences as well. For instance, siblicide is present in both species, but whereas in the NB it is obligate and the couple only raises one chick, in the BFB it is facultative and sometimes two or even three chicks can fledge in a clutch. Also, the NB are more resilient to changes in the environment because they can delay breeding and can switch their diet if their preferred prey is less abundant. Thus, I wanted to assess if individual differences in health and physiological condition were related to the foraging pattern of breeding adults and if that translated into differences in reproductive success. Comparing both species would provide clues on how they have adapted differently to the same environment. 
 
-<p style="margin-right: 40px;" align = "justify"><font size = "3">
-<img src="/Figures/BFB.jpg" max-width = "40%" width = "40%" height = "auto" align = "right" hspace = "20" vspace="20">
+<figure style="float: right; width: 40%; margin: 0 0 20px 25px;">
+    <img src="/Figures/BFB.jpg"
+         style="width: 40%; height: auto;">
+    <figcaption style="
+        text-align: left;
+        font-style: italic;
+        font-size: 0.9em;">
+        Blue-footed booby female and its chick.
+    </figcaption>
+</figure>
 
 However, during my first field season, we realized that BFB breeding numbers in all the islands we visited were much lower than what had been reported 20 years before. This was confirmed by several researchers that had carried out research in the Galápagos for more than a decade; some of them also told me about an apparent lower breeding success. This was even more striking considering that the BFB population in the Galápagos was considered one of the largest for the species in the world. Thus, my research question turned to exploring the *potential causes that could have led to this decline on the BFB*. We focused on two (not mutually exclusive) possible causes: (1) low reproductive success related to poor feeding conditions and (2) poor health. Because of its isolation, many of the animal populations in the Galápagos are vulnerable to pathogens that have been later introduced, such as avian pox. Thus, we were also interested in screening for the presence of parasites. 
+<div style="clear: both;"></div>
 
 I carried fieldwork during three consecutive breeding seasons recording provisioning behaviour to the chicks and reproductive success in two colonies in the archipelago. We also sampled birds to assess their health status and screen for parasites. 
 
