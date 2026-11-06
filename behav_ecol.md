@@ -15,7 +15,7 @@ I studied parental effort in magnificent frigatebirds (*Fregata magnificens*) in
 
 <figure style="float: right; width: 60%; margin: 20px;">
     <img src="/Figures/Frigatebird.jpg" 
-         style="width: 60%; height: 60%;">
+         style="width: 70%; height: 70%;">
     <figcaption style=
         "text-align: left; 
         font-style: italic;
@@ -23,10 +23,8 @@ I studied parental effort in magnificent frigatebirds (*Fregata magnificens*) in
         Magnificent Frigatebird.
     </figcaption>
 </figure>
-<p>
-These seabirds are particular in that their feathers are not quite water proof and therefore they cannot forage by plunging or diving in the sea. Instead, they skim the surface of the sea to grab fish or they steal it from other birds. They also have a long period of parental care - the single chick (females lay only one egg) will still need feeding for between nine months to a year after fledging, which happens at around six months of age, and thus, it can take 18 months for the chick to become fully independent. Although both parents incubate and feed the chick for the first few months, the male deserts the nest before the chick fledges, leaving the burden of finishing raising the offspring to the female. The female compensates the care given by the male after he deserts by increasing the feeding rate to the chick.
-</p>
 
+These seabirds are particular in that their feathers are not quite water proof and therefore they cannot forage by plunging or diving in the sea. Instead, they skim the surface of the sea to grab fish or they steal it from other birds. They also have a long period of parental care - the single chick (females lay only one egg) will still need feeding for between nine months to a year after fledging, which happens at around six months of age, and thus, it can take 18 months for the chick to become fully independent. Although both parents incubate and feed the chick for the first few months, the male deserts the nest before the chick fledges, leaving the burden of finishing raising the offspring to the female. The female compensates the care given by the male after he deserts by increasing the feeding rate to the chick.
 <div style="clear: both;"></div>
 
 This species, as many other seabirds, is long lived, so trade-offs between current and future reproduction (i. e. survival) may exist. For example, a female frigatebird may decide to also desert the chick if the cost of raising it after the male’s desertion is such that risks her survival and thus her chances of breeding in the future. <br><br>
