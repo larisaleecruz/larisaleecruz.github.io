@@ -59,4 +59,18 @@ I carried fieldwork during three consecutive breeding seasons recording provisio
 
 Our results suggested that provisioning of adults to their chicks was less than optimal, resulting in low breeding success and low body mass for surviving chicks, which could have negatively affected their survival later on. In contrast, although we found some evidence of parasites present in the blood, it did not have an effect on provisioning or breeding success, and health status was highly variable within individuals and probably strongly influenced by environmental variables. Overall, our research suggested that poor breeding conditions, possibly related to low food availability in the archipelago, were associated to the decline in this population. A [later study](https://www.researchgate.net/profile/David-Anchundia/publication/277673059_Chronic_lack_of_breeding_by_Galapagos_Blue-footed_Boobies_and_associated_population_decline/links/5ba96e5c299bf13e604a3baa/Chronic-lack-of-breeding-by-Galapagos-Blue-footed-Boobies-and-associated-population-decline.pdf) confirmed this.
 
+<b><span style="color: #960018; font-size: 24px;">Passerines </span></b>
+
+As a research assistant at the [School of Biological Sciences](https://biosci.snu.ac.kr/en) of the Seoul National University I participated in a population study of tits (Paridae). Three species: varied tit (*Sittiparus varius*), marsh tit (*Poecile palustris*) and oriental tit (*Parus cinereus*) live sympatrically in the Gwanak mountain on the vicinity of the campus, where a long-term study using nest boxes has been carried out for more than 15 years. I assisted master and PhD studies during their fieldwork, which involved monitoring nest boxes to record demographic data, such as the start and end of the breeding season, breeding success, chick growth, etc.), and on the database management.
+
+<figure class="image-left">
+    <img src="/Figures/Parus_cinereus.jpg"
+    <figcaption>
+        Oriental tit.
+    </figcaption>
+</figure>
+
+I also participated in a study looking at alarm calls used by oriental and varied tits in response to predators. These species nest in tree cavities and chicks of both species suffer predation in the nest, for instance,  by snakes or chipmunks. Other predators such as jays cannot go into the tree cavities and therefore are more likely to predate on birds outside the nest. Notably, adults perform different alarm calls for each predator, even though the risk posed by some of them (i. e., snake and chipmunk) may be similar. Also, the calls made by oriental tits and varied tits in response to snake show some overlap on their acoustic properties, and chicks close to the fledging of both species respond by jumping out of the nest (which would suppose fleeing from the snake) when a ‘snake call’ is performed by a conspecific or a heterospecific adult. This suggests then, that such a response to alarm calls is unlearned and adaptive, and may have been already present in their common ancestor.  
+<div style="clear: both;"></div>
+
 
