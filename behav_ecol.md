@@ -28,7 +28,7 @@ These seabirds are particular in that their feathers are not quite water proof a
 <div style="clear: both;"></div>
 
 This species, as many other seabirds, is long lived, so trade-offs between current and future reproduction (i. e. survival) may exist. For example, a female frigatebird may decide to also desert the chick if the cost of raising it after the male’s desertion is such that risks her survival and thus her chances of breeding in the future. <br><br>
-<i>My research was to study if this increased effort by the female had a cost</i>, for instance in a reduction on her body mass.
+*My research was to study if this increased effort by the female had a cost*, for instance in a reduction on her body mass.
 
 <p style="margin-left: 40px;" align = "justify"><font size = "3">
 <img src="/Figures/frigate_scale.jpg" max-width = "40%" width = "40%" height = "auto" align = "left" hspace = "20" vspace="20">
@@ -38,6 +38,7 @@ To do this, we installed an electronic scale that allowed us to record the body 
 It seems that the increase in parental effort after male desertion does not represent a higher reproductive cost for the female, at least measured in terms of body mass, as it did not change before and after male desertion. Chicks attained average growth at fledging, suggesting that the female investment in the current breeding season was enough. 
 
 Nevertheless, as it happens often with ecological research, unpredictable events impacted our field work. Frigatebirds in this colony start courting in late autumn and the first chicks hatch in January/February, when the rainy and hurricane season has ended. However, that year (2001) a jet stream hit the island at the beginning of March and for two days there were strong winds and rain. As most of the chicks were still small and unable to regulate their temperature, the cold and wet conditions caused a high mortality, including 90% of our initial focal sample… The sun did shine afterwards and we started all over again, but with a much smaller sample size. 
+<div style="clear: both;"></div>
 
 Later on, I did my PhD at the [School of Biological Sciences](https://biologicalsciences.leeds.ac.uk) of the **University of Leeds** focused on the foraging and breeding ecology of the blue-footed booby (BFB) (*Sula nebouxii*) and its health status in the Galápagos Islands. The initial idea was to study also the Nazca booby (NB) (*Sula granti*). Both seabird species belong to the Sulidae and share some ecological features, but there are differences as well. For instance, siblicide is present in both species, but whereas in the NB it is obligate and the couple only raises one chick, in the BFB it is facultative and sometimes two or even three chicks can fledge in a clutch. Also, the NB are more resilient to changes in the environment because they can delay breeding and can switch their diet if their preferred prey is less abundant. Thus, I wanted to assess if individual differences in health and physiological condition were related to the foraging pattern of breeding adults and if that translated into differences in reproductive success. Comparing both species would provide clues on how they have adapted differently to the same environment. 
 
