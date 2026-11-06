@@ -3,11 +3,11 @@ layout: page
 title: Behavioural Ecology
 permalink: /behav_ecol/
 ---
-Before studying biology I was already interested in  understanding why animals do what they do and how their behaviour is influenced by the environment, this is what we call Behavioural Ecology, and I have had the chance to explore it in different systems. 
+Before studying biology I was already interested in understanding why animals do what they do and how their behaviour is influenced by the environment, this is what we call Behavioural Ecology, and I have had the chance to explore it in different systems. 
 
 <b><span style="color: #0000ff; font-size: 24px;">Seabirds</span></b>
 
-Seabirds are a quite interesting group because they depend on the sea for food, but they need land for reproduction. 
+Seabirds are a quite interesting group because, among other things, they depend on the sea for food, but they need land for reproduction. 
 
 **Parental effort in Frigatebirds**<br><br>
 As a biology student I had the chance to join the Animal Behaviour Lab at the [**Institute of Ecology**](https://www.ecologia.unam.mx/web2/index.php/en/) in Mexico to do research on seabirds for my major.
@@ -27,13 +27,10 @@ These seabirds are particular in that their feathers are not quite water proof a
 This species, as many other seabirds, is long lived, so trade-offs between current and future reproduction (i. e. survival) may exist. For example, a female frigatebird may decide to also desert the chick if the cost of raising it after the male’s desertion is such that risks her survival and thus her chances of breeding in the future. <br><br>
 *My research was to study if this increased effort by the female had a cost*, for instance in a reduction on her body mass.
 
-<figure style="float: left; width: 40%; margin: 0 15px 10px 0;">
+<figure class="image-left";">
     <img src="/Figures/frigate_scale.jpg" 
          style="width: 100%; height: auto;">
-    <figcaption style=
-        "text-align: left; 
-        font-style: italic;
-        font-size: 0.9em;">
+    <figcaption> 
         Frigatebird chick and scale next to nest.
     </figcaption>
 </figure>
@@ -48,13 +45,9 @@ Nevertheless, as it happens often with ecological research, unpredictable events
 **Population decline in Galápagos Blue-footed boobies**<br><br>
 Later on, I did my PhD at the [School of Biological Sciences](https://biologicalsciences.leeds.ac.uk) of the University of Leeds focused on the foraging and breeding ecology of the blue-footed booby (BFB) (*Sula nebouxii*) and its health status in the Galápagos Islands. The initial idea was to study also the Nazca booby (NB) (*Sula granti*). Both seabird species belong to the Sulidae and share some ecological features, but there are differences as well. For instance, siblicide is present in both species, but whereas in the NB it is obligate and the couple only raises one chick, in the BFB it is facultative and sometimes two or even three chicks can fledge in a clutch. Also, the NB are more resilient to changes in the environment because they can delay breeding and can switch their diet if their preferred prey is less abundant. Thus, I wanted to assess if individual differences in health and physiological condition were related to the foraging pattern of breeding adults and if that translated into differences in reproductive success. Comparing both species would provide clues on how they have adapted differently to the same environment. 
 
-<figure style="float: right; width: 50%; margin: 0 0 10px 15px;">
+<figure class="image-right">
     <img src="/Figures/BFB.jpg"
-         style="width: 100%; height: auto;">
-    <figcaption style="
-        text-align: left;
-        font-style: italic;
-        font-size: 0.9em;">
+    <figcaption>
         Blue-footed booby female and its chick.
     </figcaption>
 </figure>
