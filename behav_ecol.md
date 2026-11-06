@@ -16,7 +16,7 @@ I studied parental effort in magnificent frigatebirds (*Fregata magnificens*) in
 
 <figure style="float: right; width: 50%; margin: 0 0 10px 15px;">
     <img src="/Figures/Frigatebird.jpg" 
-         style="width: 70%; height: 70%;">
+         style="width: 100%; height: auto;">
     <figcaption style=
         "text-align: left; 
         font-style: italic;
@@ -33,7 +33,7 @@ This species, as many other seabirds, is long lived, so trade-offs between curre
 
 <figure style="float: left; width: 40%; margin: 0 15px 10px 0;">
     <img src="/Figures/frigate_scale.jpg" 
-         style="width: 60%; height: auto;">
+         style="width: 100%; height: auto;">
     <figcaption style=
         "text-align: left; 
         font-style: italic;
@@ -54,7 +54,7 @@ Later on, I did my PhD at the [School of Biological Sciences](https://biological
 
 <figure style="float: right; width: 50%; margin: 0 0 10px 15px;">
     <img src="/Figures/BFB.jpg"
-         style="width: 60%; height: auto;">
+         style="width: 100%; height: auto;">
     <figcaption style="
         text-align: left;
         font-style: italic;
