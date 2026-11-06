@@ -17,7 +17,7 @@ I studied parental effort in magnificent frigatebirds (*Fregata magnificens*) in
 <figure class="image-right">
     <img src="/Figures/Frigatebird.jpg">
     <figcaption>
-        Magnificent Frigatebird.
+        Magnificent Frigatebird
     </figcaption>
 </figure>
 
@@ -28,10 +28,9 @@ This species, as many other seabirds, is long lived, so trade-offs between curre
 *My research was to study if this increased effort by the female had a cost*, for instance in a reduction on her body mass.
 
 <figure class="image-left">
-    <img src="/Figures/frigate_scale.jpg" 
-         style="width: 100%; height: auto;">
+    <img src="/Figures/frigate_scale.jpg">
     <figcaption> 
-        Frigatebird chick and scale next to nest.
+        Frigatebird chick and scale next to nest
     </figcaption>
 </figure>
 
@@ -46,9 +45,9 @@ Nevertheless, as it happens often with ecological research, unpredictable events
 Later on, I did my PhD at the [School of Biological Sciences](https://biologicalsciences.leeds.ac.uk) of the University of Leeds focused on the foraging and breeding ecology of the blue-footed booby (BFB) (*Sula nebouxii*) and its health status in the Galápagos Islands. The initial idea was to study also the Nazca booby (NB) (*Sula granti*). Both seabird species belong to the Sulidae and share some ecological features, but there are differences as well. For instance, siblicide is present in both species, but whereas in the NB it is obligate and the couple only raises one chick, in the BFB it is facultative and sometimes two or even three chicks can fledge in a clutch. Also, the NB are more resilient to changes in the environment because they can delay breeding and can switch their diet if their preferred prey is less abundant. Thus, I wanted to assess if individual differences in health and physiological condition were related to the foraging pattern of breeding adults and if that translated into differences in reproductive success. Comparing both species would provide clues on how they have adapted differently to the same environment. 
 
 <figure class="image-right">
-    <img src="/Figures/BFB.jpg"
+    <img src="/Figures/BFB.jpg">
     <figcaption>
-        Blue-footed booby female and its chick.
+        Blue-footed booby female and its chick
     </figcaption>
 </figure>
 
@@ -61,10 +60,10 @@ Our results suggested that provisioning of adults to their chicks was less than 
 
 <b><span style="color: #960018; font-size: 24px;">Passerines </span></b>
 
-As a research assistant at the [School of Biological Sciences](https://biosci.snu.ac.kr/en) of the Seoul National University I participated in a population study of tits (Paridae). Three species: varied tit (*Sittiparus varius*), marsh tit (*Poecile palustris*) and oriental tit (*Parus cinereus*) live sympatrically in the Gwanak mountain on the vicinity of the campus, where a long-term study using nest boxes has been carried out for more than 15 years. I assisted master and PhD studies during their fieldwork, which involved monitoring nest boxes to record demographic data, such as the start and end of the breeding season, breeding success, chick growth, etc.), and on the database management.
+As a research assistant at the [School of Biological Sciences](https://biosci.snu.ac.kr/en) of the Seoul National University I participated in a population study of tits (Paridae). Three species, varied tit (*Sittiparus varius*), marsh tit (*Poecile palustris*) and oriental tit (*Parus cinereus*), live sympatrically in the Gwanak mountain on the vicinity of the campus, where a long-term study using nest boxes has been carried out for more than 15 years. I assisted master and PhD studies during their fieldwork, which involved monitoring nest boxes to record demographic data, such as the start and end of the breeding season, breeding success, chick growth, etc., and on the database management.
 
 <figure class="image-left">
-    <img src="/Figures/Parus_cinereus.jpg"
+    <img src="/Figures/Parus_cinereus.jpg">
     <figcaption>
         Oriental tit
     </figcaption>
@@ -72,5 +71,3 @@ As a research assistant at the [School of Biological Sciences](https://biosci.sn
 
 I also participated in a study looking at alarm calls used by oriental and varied tits in response to predators. These species nest in tree cavities and chicks of both species suffer predation in the nest, for instance,  by snakes or chipmunks. Other predators such as jays cannot go into the tree cavities and therefore are more likely to predate on birds outside the nest. Notably, adults perform different alarm calls for each predator, even though the risk posed by some of them (i. e., snake and chipmunk) may be similar. Also, the calls made by oriental tits and varied tits in response to snake show some overlap on their acoustic properties, and chicks close to the fledging of both species respond by jumping out of the nest (which would suppose fleeing from the snake) when a ‘snake call’ is performed by a conspecific or a heterospecific adult. This suggests then, that such a response to alarm calls is unlearned and adaptive, and may have been already present in their common ancestor.  
 <div style="clear: both;"></div>
-
-
