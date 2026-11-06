@@ -14,14 +14,10 @@ As a biology student I had the chance to join the Animal Behaviour Lab at the [*
 
 I studied parental effort in magnificent frigatebirds (*Fregata magnificens*) in a breeding colony in [**Isla Isabel**](https://www.gob.mx/conanp/documentos/parque-nacional-isla-isabel-209449?state=published) in Mexico. 
 
-<figure style="float: right; width: 50%; margin: 0 0 10px 15px;">
-    <img src="/Figures/Frigatebird.jpg" 
-         style="width: 100%; height: auto;">
-    <figcaption style=
-        "text-align: left; 
-        font-style: italic;
-        font-size: 0.9em;">
-        Magnificent frigatebird.
+<figure class="image-right">
+    <img src="/Figures/Frigatebird.jpg">
+    <figcaption>
+        Magnificent Frigatebird.
     </figcaption>
 </figure>
 
