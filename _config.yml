@@ -13,6 +13,8 @@ header_pages:
     title: Home
   - page: research.md
     title: Research
+  - page: publications.md
+    title: Publications
   - page: cv.md
     title: CV
   - page: contact.md
