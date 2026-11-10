@@ -10,9 +10,9 @@ Before studying biology I was already interested in understanding why animals do
 Seabirds are a quite interesting group because, among other things, they depend on the sea for food, but they need land for reproduction. 
 
 **Parental effort in Frigatebirds**<br><br>
-As a biology student I had the chance to join the Animal Behaviour Lab at the [**Institute of Ecology**](https://www.ecologia.unam.mx/web2/index.php/en/) in Mexico to do research on seabirds for my major.
+As a biology student I had the chance to join the Animal Behaviour Lab at the [Institute of Ecology](https://www.ecologia.unam.mx/web2/index.php/en/) in Mexico to do research on seabirds for my major.
 
-I studied parental effort in magnificent frigatebirds (*Fregata magnificens*) in a breeding colony in [**Isla Isabel**](https://www.gob.mx/conanp/documentos/parque-nacional-isla-isabel-209449?state=published) in Mexico. 
+I studied parental effort in magnificent frigatebirds (*Fregata magnificens*) in a breeding colony in [Isla Isabel](https://www.gob.mx/conanp/documentos/parque-nacional-isla-isabel-209449?state=published) in Mexico. 
 
 <figure class="image-right">
     <img src="/Figures/Frigatebird.jpg">
