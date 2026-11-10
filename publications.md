@@ -14,7 +14,7 @@ Tran A, Rakotoarison HA, **Lee-Cruz L**, Kassié D (2025). Multi-scale spatial m
 
 Shaw, AK, Fouda L, Mezzini S, et al. (2025) Perceived and observed biases within scientific communities: a case study in movement ecology. *Proceedings of the Royal Society B: Biological Sciences* 292: 20250679. [https://doi.org/10.1098/rspb.2025.0679](https://doi.org/10.1098/rspb.2025.0679)
 
-Jungmoon H, Lee K, Yang E, Kim W, Song H, Hwang I, **Lee-Cruz L**, et al. (2023). Unlearned adaptive responses to heterospecific referential alarm calls in two bird species from separate evolutionary lineages. *Scientific Reports* 13; [https://doi.org/10.1038/s41598-023-47052-5](https://doi.org/10.1038/s41598-023-47052-5)
+Ha J, Lee K, Yang E, Kim W, Song H, Hwang I, **Lee-Cruz L**, et al. (2023). Unlearned adaptive responses to heterospecific referential alarm calls in two bird species from separate evolutionary lineages. *Scientific Reports* 13; [https://doi.org/10.1038/s41598-023-47052-5](https://doi.org/10.1038/s41598-023-47052-5)
 
 **Lee-Cruz L**, Lenormand M, Cappelle J, Caron A, De Nys, H, Peeters M, Bourgarel M, Roger F, Tran A. (2021) Mapping of Ebola virus spillover: suitability and seasonal variability at the landscape scale. *PLoS NTD*; [https://doi.org/10.1371/journal.pntd.0009683](https://doi.org/10.1371/journal.pntd.0009683)
 
