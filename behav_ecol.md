@@ -73,6 +73,7 @@ I also participated in a study looking at alarm calls used by oriental and varie
 <div style="clear: both;"></div>
 
 <b><span style="color: #741E9E; font-size: 24px;">Human Ecology</span></b>
+
 Human behaviour is also shaped by the environment and studies in human ecology allow us to understand how humans respond to it. However, as humans can be influenced by multiple factors, including personal values and believes and how others in the community behave, studying human behaviour can be relatively more complex than studying it in other animals.<br><br>
 
 **Cattle herding strategies in Zimbabwe**<br><br>
