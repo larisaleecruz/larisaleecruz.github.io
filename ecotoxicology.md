@@ -27,6 +27,4 @@ A great variety of marine birds breed on the coasts and islands of the Gulf of C
   </figure>
 </div>
 
-<img src="Figures/Micronucleus.jpg" alt="Test image">
-
 We collected samples from adult birds on San Jorge and San Pedro Mártir islands, in the Gulf of California, located about 300 km apart, both of which hold breeding colonies of brown boobies. Nuclear aberrations were low in birds from both islands, but in San Jorge, birds had, on average, twice as many as those on San Pedro Mártir. We also measured the concentration of various organochlorines, a type of POP, in blood and plasma extracted from the birds and found variable concentrations in birds from both islands. Further analyses could show if an association exists between genetic damage and organochlorine concentration, and if it differs depending on the island.
