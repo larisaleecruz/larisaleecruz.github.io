@@ -17,12 +17,12 @@ A great variety of marine birds breed on the coasts and islands of the Gulf of C
 
 <div class="image-pair">
   <figure>
-    <img src="Figures/Comet_assay.jpg" alt="Comets in bird's lymphocytes">
+    <img src="/Figures/Comet_assay.jpg" alt="Comets in bird's lymphocytes">
     <figcaption>Lymphocytes showing genetic damage by comet assay</figcaption>
   </figure>
 
   <figure>
-    <img src="Figures/Micronucleus.jpg" alt="Micronucleus in bird's blood cells">
+    <img src="/Figures/Micronucleus.jpg" alt="Micronucleus in bird's blood cells">
     <figcaption>Micronucleus in blood cells </figcaption>
   </figure>
 </div>
