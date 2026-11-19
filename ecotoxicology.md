@@ -5,11 +5,11 @@ permalink: /ecotoxicology/
 ---
 Human activities have released a great amount of toxic chemicals, such as pesticides and heavy metals, into the environment. Ecotoxicology is the discipline in charge of assessing the impacts that toxic chemicals have on life at all levels, from cells in organisms to whole ecosystems. 
 
-**Genotoxic damage in people**
+<b><span style="color: #696969; font-size: 24px;">Genotoxic damage in people</span></b>
 
 I joined the [CIBNOR](https://www.cibnor.gob.mx/) in Mexico as postdoctoral fellow to carry out research on genotoxicity, that is the effects of chemicals on the genetic material. We studied the human population in the community of Todos Santos, a village on the Pacific coast of the Baja California Peninsula. In this region, some aquifers are polluted with heavy metals due to mining activities, and locals that drink tap water may be exposed to it. Also, agricultural workers in the village are or have been exposed to pesticides used in the fields. Using the comet assay technique (in which genetic damage appears as the 'tail' of the comet), we assessed the genotoxic damage in buccal cells of people living in Todos Santos, comparing people that consumes well or tap water regularly, with people that have never drank well or tap water from the region. We also took into account if people were or had been agricultural workers exposed to pesticides. The results of [our study](https:// doi: 10.1002/em.22111) showed that genotoxic damage was prevalent in agricultural workers, and that it was also associated with consumption of tap water. This has important implications as this region has one of the highest cancer incidences at the national level, and mining and agriculture are among the main economic activities.
 
-**Seabirds as indicators of marine pollution**
+<b><span style="color: #fada5e; font-size: 24px;">Seabirds as indicators of marine pollution</span></b>
 
 The Gulf of California holds a remarkable marine biodiversity. However, large agricultural areas are located at the east of the gulf and run-off from farming containing herbicides and pesticides, many of which contain persistent organic pollutants (POPs), ends at sea, affecting this ecosystem. Given that seabirds are top predators of the marine ecosystem and as a result accumulate pollutants in their tissues, they can be used as bioindicators of the areas where they forage. 
 
