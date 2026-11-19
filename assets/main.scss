@@ -150,167 +150,21 @@
   margin: 0 15px 10px 0;
   box-sizing: border-box;
 }
-
-Log in
-Sign up for free
-
-    I am creating a website using a repertory in GitHub. I have a scss file with the formatting for the images I put in different pages. I have a format for images floating to the right and to the left. I use this code for images to the right: .image-right {
-      float: right;
-      width: 50%;
-      max-width: 500px;
-      margin: 0 0 10px 15px;
-      box-sizing: border-box;
-    }   I want to include a code to my scss file to put two images side by side.
-
-    You can add a new SCSS class to display two images side by side. I recommend using Flexbox rather than float, as it gives you better control over the spacing and alignment.
-    1. Add this code to your SCSS file
-    scss
-
-    .image-pair {
-      display: flex;
-      gap: 15px;
-      width: 100%;
-      max-width: 1000px;
-      margin: 10px 0;
-
-      img {
-        width: calc(50% - 7.5px);
-        max-width: 500px;
-        height: auto;
-        object-fit: contain;
-        box-sizing: border-box;
-      }
+/* Two images side by side */
+.image-pair {
+  display: flex;
+  gap: 15px;
+  width: 100%;
+  max-width: 1000px;
+  margin: 15px 0;
+  box-sizing: border-box;
     }
-
-    2. Use this HTML code in your page
-
-    <div class="image-pair">
-      <img src="image1.jpg" alt="Description of image 1">
-      <img src="image2.jpg" alt="Description of image 2">
-    </div>
-
-    3. Optional: Make it responsive
-
-    If you want the images to appear one below the other on small screens (such as mobile phones), add this to your SCSS:
-    scss
-
-    @media (max-width: 600px) {
-      .image-pair {
-        flex-direction: column;
-
-        img {
-          width: 100%;
-          max-width: 100%;
-        }
-      }
-    }
-
-    Result
-
-        On desktop: the two images appear side by side, each taking approximately 50% of the available width.
-
-        On mobile: the images appear one below the other.
-
-        Both images retain their original proportions.
-
-    One advantage: This solution doesn't interfere with your existing .image-right and .image-left classes, so you can continue using all three formats throughout your website.
-
-    I have all this code for image formatting:/* Image formatting */
-
-    /* Images floating to the right */
-    .image-right {
-      float: right;
-      width: 50%;
-      max-width: 500px;
-      margin: 0 0 10px 15px;
-      box-sizing: border-box;
-    }
-
-    /* Images floating to the left */
-    .image-left {
-      float: left;
-      width: 50%;
-      max-width: 500px;
-      margin: 0 15px 10px 0;
-      box-sizing: border-box;
-    }
-
-    /* Image dimensions */
-    .image-right img,
-    .image-left img {
-      display: block;
-      width: 100%;
-      height: auto;
-    }
-
-    /* Image captions */
-    .image-right figcaption,
-    .image-left figcaption {
-      text-align: left;
-      font-style: italic;
-      font-size: 0.9em;
-      margin-top: 6px;
-    }
-
-    /* Clear image floats */
-    .clear-float {
-      clear: both;
-    }
-
-    /* for display on mobile */
-    @media screen and (max-width: 600px) {
-      .image-right,
-      .image-left {
-        float: none;
-        width: 100%;
-        max-width: 100%;
-        margin: 15px 0;
-      }
-    }
-
-    You can keep all your existing code and simply add a third formatting option for two images side by side. I suggest using the same structure and naming convention as your existing classes.
-
-    Here is your complete SCSS code, with the new .image-pair class integrated.
-    Complete SCSS code
-    scss
-
-
-    /* Image formatting */
-
-    /* Images floating to the right */
-    .image-right {
-      float: right;
-      width: 50%;
-      max-width: 500px;
-      margin: 0 0 10px 15px;
-      box-sizing: border-box;
-    }
-
-    /* Images floating to the left */
-    .image-left {
-      float: left;
-      width: 50%;
-      max-width: 500px;
-      margin: 0 15px 10px 0;
-      box-sizing: border-box;
-    }
-
-    /* Two images side by side */
-    .image-pair {
-      display: flex;
-      gap: 15px;
-      width: 100%;
-      max-width: 1000px;
-      margin: 15px 0;
-      box-sizing: border-box;
-    }
-
-    .image-pair img {
-      display: block;
-      width: calc(50% - 7.5px);
-      max-width: 500px;
-      height: auto;
-      object-fit: contain;
+.image-pair img {
+  display: block;
+  width: calc(50% - 7.5px);
+  max-width: 500px;
+  height: auto;
+  object-fit: contain;
     }
 
 /* Image dimensions */
@@ -323,7 +177,8 @@ Sign up for free
 
 /* Image captions */
 .image-right figcaption,
-.image-left figcaption {
+.image-left figcaption,
+.image-pair figcaption {
   text-align: left;
   font-style: italic;
   font-size: 0.9em;
